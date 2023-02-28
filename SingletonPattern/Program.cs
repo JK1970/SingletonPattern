@@ -1,6 +1,4 @@
-﻿using SingletonPattern.Models;
-
-namespace SingletonPattern
+﻿namespace SingletonPattern
 {
     public class Program
     {

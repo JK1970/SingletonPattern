@@ -1,4 +1,4 @@
-namespace SingletonPattern.Models
+namespace SingletonPattern
 {
     public class Database
     {
